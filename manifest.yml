@@ -1,0 +1,5 @@
+applications:
+  name: ccworkshopg
+  memory: 128M
+  host: ccworkshopg
+  buildpack: staticfile_buildpack
